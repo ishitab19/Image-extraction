@@ -48,6 +48,24 @@ MANIFEST
 .ipynb_checkpoints
 *.ipynb
 
+# Image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+
+# Document files
+*.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Mistral API Keys and secrets
+MISTRAL_API_KEY
+
 # Testing
 .pytest_cache/
 .coverage
